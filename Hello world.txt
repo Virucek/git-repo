@@ -1,2 +1,4 @@
 print("Hello world!!");
 print("Hello!")
+print("Hi! This is test message")
+print("How are you?")
